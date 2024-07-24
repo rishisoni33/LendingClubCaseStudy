@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+> The objective is to uncover patterns and insights using Exploratory Data Analysis (EDA) to understand how various consumer and loan attributes influence the likelihood of default.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,45 +7,23 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This Project contains Presentation for How can a company or bank check to provide loan to customers based on defaulters data set)
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Based on multiple analysis several parameters are extracted which can conclude how a defaulter can be identified
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python 3.11, Jupyter Notebook , Pandas, Matplotlib, Seaborn
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by upgrad ...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Special thanks to Rajneesh for all the support 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@rishisoni33] and Rajneesh - feel free to contact me!
